@@ -1,7 +1,7 @@
 {
-  "version": "V2.9.24",
-  "size": 1395584,
-  "sha256": "bc33adc1868f18638e74955d8ea6b137f7522127d3e16dbc857c3a0bfde67244",
-  "sig": "aff493b89aed69c1b7dc8358fd1b25737c8ff676242e3d3109721d590eaaafb9",
-  "url": "https://raw.githubusercontent.com/rashidaitbrahim/tayoga-releases/main/firmware/tayoga_V2_9_24.bin"
+  "version": "V2.9.29",
+  "size": 1402928,
+  "sha256": "f3f1f42dd060f39dd79c8fc8722788c652baa644115bb635db74a8d347f1ce46",
+  "sig": "481085a944f5d8fef1f8e97132d3ea35b98ffb01987e800c39c14012defb027e",
+  "url": "https://raw.githubusercontent.com/rashidaitbrahim/tayoga-releases/main/firmware/tayoga_V2_9_29.bin"
 }
